@@ -1,0 +1,2 @@
+model_checkpoint_path: "epoch_05_acc0.9818"
+all_model_checkpoint_paths: "epoch_05_acc0.9818"
